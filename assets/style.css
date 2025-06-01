@@ -279,6 +279,7 @@ input[type="submit"] {
 		text-align: center;
 		margin-top: 1em;
 	}
+
 	#services .container {
 		flex-direction: column;
 	}
